@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'c664751b-b662-48f9-b2aa-2f0d4d337a7f'}
+UUID=${UUID:-'52a38986-c685-4635-93c9-25cf6da26276'}
 
 # 其他Paas保活
 PAAS1_URL=
@@ -17,8 +17,8 @@ KOYEB_ACCOUNT=
 KOYEB_PASSWORD=
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，获取方式看 https://github.com/fscarmen2/X-for-Glitch，不需要的话可以留空，删除或在这三行最前面加 # 以注释
-ARGO_AUTH=''
-ARGO_DOMAIN=
+ARGO_AUTH='{"AccountTag":"1c3ec375ced6017806b43f96d9efd4e5","TunnelSecret":"VOYa3QrbHJTyAWFcIy5zqbLTpmz3R6AQdm4HNWmtMd4=","TunnelID":"6731f9ac-61f9-443b-8c5f-3f539c1e63cf"}'
+ARGO_DOMAIN=0609bake4app.jqlwkoenpp.net
 
 generate_config() {
   cat > config.json << EOF
