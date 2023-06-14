@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'52a38986-c685-4635-93c9-25cf6da26276'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=https://4yjns5-3000.csb.app/
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
