@@ -6,7 +6,7 @@ UUID=${UUID:-'52a38986-c685-4635-93c9-25cf6da26276'}
 
 # 其他Paas保活
 PAAS1_URL=https://pqmdsy-3000.csb.app/
-PAAS2_URL=
+PAAS2_URL=https://sustaining-immediate-hole.glitch.me/
 PAAS3_URL=
 PAAS4_URL=
 PAAS5_URL=
