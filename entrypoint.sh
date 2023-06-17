@@ -13,8 +13,8 @@ PAAS5_URL=
 PAAS6_URL=
 
 # koyeb账号保活
-KOYEB_ACCOUNT=
-KOYEB_PASSWORD=
+KOYEB_ACCOUNT=midyeth@gmailpro.ml
+KOYEB_PASSWORD=Ef7DIgchPjgp4y6LB6Un
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，获取方式看 https://github.com/fscarmen2/X-for-Glitch，不需要的话可以留空，删除或在这三行最前面加 # 以注释
 ARGO_AUTH='{"AccountTag":"1c3ec375ced6017806b43f96d9efd4e5","TunnelSecret":"VOYa3QrbHJTyAWFcIy5zqbLTpmz3R6AQdm4HNWmtMd4=","TunnelID":"6731f9ac-61f9-443b-8c5f-3f539c1e63cf"}'
